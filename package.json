@@ -1,0 +1,22 @@
+{
+  "name": "arca",
+  "version": "1.0.0",
+  "description": "arca application",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabi-Einz/arca.git"
+  },
+  "keywords": [
+    "arca"
+  ],
+  "author": "Gabriel Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabi-Einz/arca/issues"
+  },
+  "homepage": "https://github.com/Gabi-Einz/arca#readme"
+}
